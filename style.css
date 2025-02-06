@@ -54,3 +54,19 @@ ul {
     border-radius: 10px;
     border-style: none;
 }
+
+.info-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 80px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.info-section .card {
+    display: flex;
+}
