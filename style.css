@@ -1,13 +1,13 @@
 body {
     height: 100vh;
     margin: 0;
+    font-family: Roboto, 'Open Sans', sans-serif;
 }
 
 .header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: Roboto, 'Open Sans', sans-serif;
     font-size: 24px;
     font-weight: 500;
     color: #F9FAF8;
@@ -20,4 +20,37 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
     list-style: none;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    align-items: center;
+    padding: 35px;
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    background-color: #1F2937;
+}
+
+.hero-card {
+    width: 450px;
+}
+
+.hero-card p {
+    font-size: 18px;
+    font-weight: normal;
+    color: #E5E7EB;
+}
+
+.hero-card button {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-weight: 600;
+    border-radius: 10px;
+    border-style: none;
 }
