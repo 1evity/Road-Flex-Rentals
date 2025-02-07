@@ -164,3 +164,14 @@ ul {
     border-style: solid;
     border-color: #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 40px;
+}
