@@ -95,8 +95,6 @@ ul {
 .info-section .special {
     flex: 1;
     display: flex;
-    align-items: center;
-    gap: 20px;
     border-style: solid;
     border-width: 6px;
     border-color: #626262;
@@ -104,6 +102,12 @@ ul {
     overflow: hidden;
 }
 
-.info-section .special img {
-    
+.info-section .special .special-content {
+    padding: 30px;
+    font-weight: 500;
+}
+
+.info-section .special .special-content p {
+    font-style: italic;
+    font-weight: 300;
 }
