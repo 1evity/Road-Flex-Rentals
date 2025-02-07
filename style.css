@@ -175,3 +175,8 @@ ul {
     font-size: 18px;
     padding: 40px;
 }
+
+.footer a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
