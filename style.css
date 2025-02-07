@@ -120,6 +120,23 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 40px;
     background-color: #E5E7EB;
+}
+
+.quote-section figure {
+    width: 700px;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0px;
+    padding: 0px;
+}
+
+.quote-section figcaption {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
 }
 
