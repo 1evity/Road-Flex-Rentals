@@ -44,7 +44,7 @@ ul {
     color: #E5E7EB;
 }
 
-.hero-card button {
+.hero-card button, .info-section button {
     background-color: #3882F6;
     font-size: 18px;
     color: white;
@@ -115,3 +115,4 @@ ul {
     font-weight: 300;
     margin-bottom: 0px;
 }
+
