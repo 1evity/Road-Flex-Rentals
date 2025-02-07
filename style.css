@@ -101,4 +101,9 @@ ul {
     border-width: 6px;
     border-color: #626262;
     border-radius: 15px;
+    overflow: hidden;
+}
+
+.info-section .special img {
+    
 }
