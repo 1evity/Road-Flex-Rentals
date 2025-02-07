@@ -151,6 +151,7 @@ ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    min-width: 400px;
 }
 
 .action-section button {
@@ -163,6 +164,7 @@ ul {
     border-radius: 10px;
     border-style: solid;
     border-color: #F9FAF8;
+    flex-shrink: 0;
 }
 
 .footer {
