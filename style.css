@@ -106,9 +106,12 @@ ul {
 .info-section .special .special-content {
     padding: 30px;
     font-weight: 500;
+    height: 400px;
+    width: 500px;
 }
 
 .info-section .special .special-content p {
     font-style: italic;
     font-weight: 300;
+    margin-bottom: 0px;
 }
