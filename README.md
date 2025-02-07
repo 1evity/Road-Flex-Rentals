@@ -1,9 +1,5 @@
 # [Road-Flex-Rentals](https://1evity.github.io/Road-Flex-Rentals/)
 
-## Description
-
-Welcome to the repository for my project where I built a simple landing page using HTML and CSS. This project focuses on utilizing CSS Flexbox for layout management. It is a beginner-friendly project aimed at practicing and understanding the basics of web development.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
