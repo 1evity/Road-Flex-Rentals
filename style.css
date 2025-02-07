@@ -142,7 +142,7 @@ ul {
 
 .action-section {
     margin: 100px 200px 100px;
-    padding: 40px;
+    padding: 30px;
     background-color: #3882F6;
     border-radius: 10px;
     color: #F9FAF8;
@@ -151,4 +151,15 @@ ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.action-section button {
+    background-color: #F9FAF8;
+    font-size: 18px;
+    color: #3882F6;
+    width: 150px;
+    height: 40px;
+    font-weight: 600;
+    border-radius: 10px;
+    border-style: none;
 }
