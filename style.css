@@ -154,12 +154,13 @@ ul {
 }
 
 .action-section button {
-    background-color: #F9FAF8;
+    background-color: #3882F6;
     font-size: 18px;
-    color: #3882F6;
+    color: #F9FAF8;
     width: 150px;
     height: 40px;
     font-weight: 600;
     border-radius: 10px;
-    border-style: none;
+    border-style: solid;
+    border-color: #F9FAF8;
 }
